@@ -1,0 +1,1 @@
+Linking my account tanukicrypto on GitHub with my address 0x0a0191eb97302d6d730c2d638bb7e0b7c3d13819 on EVM in mycryptoprofile.io, and the challenge code is: 29e5e53ff9315d8a0989c0eba0a87343. #LitentryVerifyMyAddress
